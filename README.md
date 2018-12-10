@@ -4,12 +4,19 @@ Course Project Getting and Clenaing the Data
 The script works as follows:
 
 The files of UCI were imported to the environment using `read.table` 
+
 Put the column names from the features dataset 
+
 Added activity and subject columns
+
 Merged test and train datasets
+
 Extracted mean and std columns
+
 Change to more descriptive names for variables
+
 Labeled data
+
 Created new tidy dataset with mean of all variables.
 
 A more detailed view in the following CODE BOOK:
